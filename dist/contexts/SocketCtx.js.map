@@ -1,0 +1,1 @@
+{"version":3,"file":"SocketCtx.js","sourceRoot":"","sources":["../../src/contexts/SocketCtx.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,aAAa,EAAE,MAAM,OAAO,CAAC;AACtC,OAAO,EAAE,EAAE,EAAE,MAAM,kBAAkB,CAAC;AAEtC,IAAM,SAAS,GAAG,aAAa,CAAC;IAC9B,MAAM,EAAE,EAAE,EAAE;IACZ,YAAY,EAAE,KAAK;CACpB,CAAC,CAAC;AAEH,eAAe,SAAS,CAAC"}

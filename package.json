@@ -1,0 +1,8 @@
+{
+  "name": "use-socket-io",
+  "version": "1.0.0",
+  "description": "A React hook for the Socket.IO's client-side library",
+  "main": "dist/index.js",
+  "license": "MIT",
+  "homepage": ""
+}
