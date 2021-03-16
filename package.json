@@ -4,5 +4,13 @@
   "description": "A React hook for the Socket.IO's client-side library",
   "main": "dist/index.js",
   "license": "MIT",
-  "homepage": ""
+  "homepage": "https://github.com/santosmarco/use-socket-io",
+  "repository": "https://github.com/santosmarco/use-socket-io",
+  "scripts": {
+    "build": "rm -rf dist && tsc"
+  },
+  "dependencies": {
+    "react": "^17.0.1",
+    "socket.io-client": "^4.0.0"
+  }
 }
